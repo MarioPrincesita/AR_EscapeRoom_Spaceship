@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: EscapeRoom_ReferenceImageLibrary
+  m_EditorClassIdentifier: Unity.XR.ARSubsystems::UnityEngine.XR.ARSubsystems.XRReferenceImageLibrary
+  m_GuidLow: 5543175760495320938
+  m_GuidHigh: 10559953498733308566
+  m_DataStore:
+    m_Storage: []
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 4690537271262763137
+      m_GuidHigh: 4864684928515132349
+    m_SerializedTextureGuid:
+      m_GuidLow: 17826620777324069745
+      m_GuidHigh: 6849536122908274472
+    m_Size: {x: 0.09, y: 0.09}
+    m_SpecifySize: 1
+    m_Name: Card_Commander
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5041547961220669393
+      m_GuidHigh: 3627820189354145208
+    m_SerializedTextureGuid:
+      m_GuidLow: 1041564954334317353
+      m_GuidHigh: 8609585077688052506
+    m_Size: {x: 0.09, y: 0.09}
+    m_SpecifySize: 1
+    m_Name: Card_Engineering
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4884467570674319797
+      m_GuidHigh: 12842135628471705229
+    m_SerializedTextureGuid:
+      m_GuidLow: 11030577209938379998
+      m_GuidHigh: 15280043501253663051
+    m_Size: {x: 0.09, y: 0.09}
+    m_SpecifySize: 1
+    m_Name: Card_Science
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4704876788382412188
+      m_GuidHigh: 788495619941150870
+    m_SerializedTextureGuid:
+      m_GuidLow: 17056398629659627404
+      m_GuidHigh: 7029768676535896107
+    m_Size: {x: 0.09, y: 0.09}
+    m_SpecifySize: 1
+    m_Name: Card_Navigation
+    m_Texture: {fileID: 0}
